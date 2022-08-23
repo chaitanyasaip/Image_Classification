@@ -13,3 +13,4 @@ Steps for an End-to-end project:
 3.1. then export the trained model into our disk
 3.2. we use MLops method like tf serving. tf serving will be called from fast API.
 
+Link to Blog: https://medium.com/@chaitanya17.sai/potato-disease-deep-learning-project-9afbc69a9e9d
